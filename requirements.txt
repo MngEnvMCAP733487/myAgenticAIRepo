@@ -1,0 +1,4 @@
+# Runtime dependencies (none yet)
+
+# Dev
+pytest>=7.0
